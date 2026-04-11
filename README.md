@@ -12,6 +12,7 @@ This project implements a multi-stage web search engine simulator. It starts wit
 * **Automated Web Crawling:** Efficiently crawls web pages and stores content/links in a relational database.
 * **SQLite Integration:** Uses a robust database schema to manage crawling progress, errors, and link associations.
 * **PageRank Computation:** Iterative implementation of the PageRank algorithm to simulate search engine authority scores.
+* **Interactive Visualization:** Includes a **D3.js force-directed graph** (`force.html`) to visually explore the connections and hierarchy between crawled web pages.
 * **Data Export & Visualization:** Converts complex link databases into JSON/JS formats for web-based graph visualizations.
 
 ## 🛠 Tech Stack
